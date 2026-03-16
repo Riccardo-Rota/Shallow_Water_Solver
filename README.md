@@ -1,4 +1,4 @@
-# 1D Shallow Water Equations: Finite Difference Solvers
+# Numerical Methods for Conservation Laws: Finite Difference Solvers for 1D Shallow Water Equations
 
 ## Overview
 This repository contains a MATLAB implementation of Finite Difference methods for solving the one-dimensional Shallow Water Equations (SWE). The SWE represent a system of non-linear hyperbolic conservation laws used to model fluid flow below a free surface. 
